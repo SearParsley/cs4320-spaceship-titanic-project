@@ -1,6 +1,6 @@
 # cs4320-spaceship-titanic-project
 
-# Project Info
+## Project Info
 Team Name: `Twotanic`
 
 Team Members: Marcus Hansen, Sarah Seager
@@ -9,14 +9,14 @@ Competition: Spaceship Titanic ([Link to Kaggle](https://www.kaggle.com/competit
 
 Class: USU CS 4320 Machine Learning
 
-# Milestones
+## Milestones
 1. [x] Competition registration (9/26/2025)
 1. [x] Checkpoint 1 (10/10/2025)
-1. [ ] Checkpoint 2 (10/24/2025)
+1. [x] Checkpoint 2 (10/24/2025)
 1. [ ] Project Presentation (11/19-21/2025)
 1. [ ] Final Report Submission (12/3/2025)
 
-# Competition Description
+## Competition Description
 *From Kaggle competition linked in Project Info*
 
 Welcome to the year 2912, where your data science skills are needed to solve a cosmic mystery. We've received a transmission from four lightyears away and things aren't looking good.
