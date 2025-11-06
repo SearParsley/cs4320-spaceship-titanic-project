@@ -13,7 +13,7 @@ Class: USU CS 4320 Machine Learning
 1. [x] Competition registration (9/26/2025)
 1. [x] Checkpoint 1 (10/10/2025)
 1. [x] Checkpoint 2 (10/24/2025)
-1. [ ] Project Presentation (11/19-21/2025)
+1. [ ] Project Presentation (11/18/2025)
 1. [ ] Final Report Submission (12/3/2025)
 
 ## Competition Description
